@@ -2103,7 +2103,7 @@ export const CollateralizedSimpleInterestTermsContract =
     "42": {
       "events": {},
       "links": {},
-      "address": "0x2e4AeC8763181AAA0D154db0f89BB0617b2e3265",
+      "address": "0x2e4aec8763181aaa0d154db0f89bb0617b2e3265",
       "transactionHash": "0x18865db28c617e9807284ca3c3d0c6f1618c08bc207040be851bf77146e958b4"
     },
     "70": {

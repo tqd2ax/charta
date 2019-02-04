@@ -7487,7 +7487,7 @@ export const ERC721TokenRegistry =
     "42": {
       "events": {},
       "links": {},
-      "address": "0xFc0e2CdB5CEA94630D7c69411172220889988005",
+      "address": "0xfc0e2cdb5cea94630d7c69411172220889988005",
       "transactionHash": "0x572bbe0c85bb1f593d181c63b9aaf362ca257ea3113326d963eb48a6900815bb"
     },
     "70": {

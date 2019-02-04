@@ -8310,7 +8310,7 @@ export const ContractRegistry =
     "42": {
       "events": {},
       "links": {},
-      "address": "0x87e7a9CF2FD004DA5D2AFABdf9429aAAEcCa9B68",
+      "address": "0x87e7a9cf2fd004da5d2afabdf9429aaaecca9b68",
       "transactionHash": "0xcf6f5bd938247b3e186bd37797cad50e19acfde85fafd610897e7fea84415ac1"
     },
     "70": {

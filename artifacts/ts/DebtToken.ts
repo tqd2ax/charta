@@ -10352,7 +10352,7 @@ export const DebtToken =
         }
       },
       "links": {},
-      "address": "0xD5F885511eCB2f7938aF6B072333e5916746D23e",
+      "address": "0xd5f885511ecb2f7938af6b072333e5916746d23e",
       "transactionHash": "0x36665b9614e2da7880fa66b6b5fdf718f4d34c14533ea02449a6eb2cd6d5528a"
     },
     "70": {

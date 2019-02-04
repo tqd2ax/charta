@@ -19199,7 +19199,7 @@ export const SimpleInterestTermsContract =
     "42": {
       "events": {},
       "links": {},
-      "address": "0x4048C6d8D45e52E1c3993BA70c2BE3ae98c1de93",
+      "address": "0x4048c6d8d45e52e1c3993ba70c2be3ae98c1de93",
       "transactionHash": "0x5ca74d3546279621fe698dc927150d745cb9a37b58af74356bcccb70b2d2a6b1"
     },
     "70": {

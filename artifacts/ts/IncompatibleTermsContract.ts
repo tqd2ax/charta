@@ -1719,7 +1719,7 @@ export const IncompatibleTermsContract =
     "42": {
       "events": {},
       "links": {},
-      "address": "0xCFf6C78e2C5A7602f1527Ef4Ed9ED7792F7C00b0",
+      "address": "0xcff6c78e2c5a7602f1527ef4ed9ed7792f7c00b0",
       "transactionHash": "0xe176e91c0f6651f9eec5224da6265dcee7ba3a059c207dce2194dea5aaaa6a49"
     },
     "70": {

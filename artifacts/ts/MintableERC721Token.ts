@@ -1879,7 +1879,7 @@ export const MintableERC721Token =
     "42": {
       "events": {},
       "links": {},
-      "address": "0xFda2d27D268bf93676d192778b0aB86bC81a2610",
+      "address": "0xfda2d27d268bf93676d192778b0ab86bc81a2610",
       "transactionHash": "0x4367d38451f47c202aca287ca23b19842bae463da9cef89abd11e8e4de35f5e2"
     },
     "70": {
