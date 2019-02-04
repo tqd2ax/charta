@@ -2562,7 +2562,7 @@ exports.TokenTransferProxy = {
                 }
             },
             "links": {},
-            "address": "0x1d4909aA1510A2d999347006eE5ed9D3d77ae47E",
+            "address": "0x1d4909aa1510a2d999347006ee5ed9d3d77ae47e",
             "transactionHash": "0x31bf17912835f50923e1fec9baa5b34413bca8388eea6c5d88f0cf193bf72a45"
         },
         "70": {

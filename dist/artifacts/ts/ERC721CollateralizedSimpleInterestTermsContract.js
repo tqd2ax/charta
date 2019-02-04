@@ -2331,7 +2331,7 @@ exports.ERC721CollateralizedSimpleInterestTermsContract = {
         "42": {
             "events": {},
             "links": {},
-            "address": "0xcD977682206FC1e9600f257ab46aE5B6c52D4AAB",
+            "address": "0xcd977682206fc1e9600f257ab46ae5b6c52d4aab",
             "transactionHash": "0x029719def8ad5fcb31faa583cd57819dd62bf3bde74d2333c5b7a817e1823085"
         },
         "70": {

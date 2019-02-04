@@ -9144,7 +9144,7 @@ exports.TokenRegistry = {
         "42": {
             "events": {},
             "links": {},
-            "address": "0xFB0704BA31e6Eb58E330239C62B671C2d6f3c253",
+            "address": "0xfb0704ba31e6eb58e330239c62b671c2d6f3c253",
             "transactionHash": "0xfffa20705683d8c596e3b908a35a61433fbb48ea68c364b9d354ff923d6839ab"
         },
         "70": {
